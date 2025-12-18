@@ -1,9 +1,10 @@
-# Bibliotheque-de-whitepaper
+# Whitepaper-Library
 
 <div align="center">
   <img src="https://github.com/AllyPry/Bibliotheque-de-whitepaper/blob/main/librairy.png" width="500" alt="alt text">
 </div>
 
+---
 
 **[Bitcoin](https://bitcoin.org/bitcoin.pdf)**
 
