@@ -5,7 +5,6 @@
 </div>
 
 ---
-### Blockchains whitepaper archive:
 
 **[Bitcoin](https://bitcoin.org/bitcoin.pdf)**
 
