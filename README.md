@@ -6,8 +6,6 @@
 
 Blockchains whitepaper archive
 
----
-
 **[Bitcoin](https://bitcoin.org/bitcoin.pdf)**
 
 **[Ethereum](https://ethereum.org/fr/whitepaper)** / **[Ethereum yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf)**
